@@ -5,6 +5,9 @@ Compiled by Peter Lowe [PL] Noel Byrne [NB] Dhruv Dagar [DD] Pavel Dobias [PD]
 ---- United States of America [pl]
 The world's 4th Longest River System is in the USA.
 
+---- Columbia [PD]
+biggest export of coccaine
+
 ---- Peru [PD]
 The Amazon River starts its journey in Peru.
 
@@ -19,6 +22,9 @@ the most of illegal imigrants enter usa via mexico.
 ---- France [pl]
 The French consume around 25,000 tons of snails each year.
 
+---- Slovakia [PD]
+Slovakia used to be part of CzechoSlovaika
+
 ---- Czech Republic [PD]
 Biggest consumption of beer per capita.
 
@@ -32,6 +38,9 @@ switzerland has 7000 lakes.
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
+
+----- South Africa [PD]
+South Africa is the largest producer of macadamia nuts in the world.
 
 ----- Niger [PD]
 Niger is home to the largest protected area in Africa.
@@ -55,6 +64,9 @@ It’s good manners to slurp your noodles, to show you enjoy the food.
  ------ Vietnam [PD]
 Vietnam has the world's largest cave.
 
+------- South Korea [PD]
+South Korea's writing system, Hangul, is both elegant and practical.
+
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -70,3 +82,6 @@ australia has most of the weired species of animals like big spiders.
 
 ------ Antarctica [PD]
 no one owns Antarctica
+
+------ Arctic [PD]
+The Arctic circle is an imaginary circle around the North Pole.
