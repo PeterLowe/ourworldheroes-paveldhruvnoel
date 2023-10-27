@@ -11,6 +11,9 @@ The Brazilian football team have won the world cup a record 5 times.
 ---- Mexico [DD]
 the most of illegal imigrants enter usa via mexico.
 
+---- canada [DD]#
+they have maple syrup
+
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
@@ -21,7 +24,9 @@ The city of Berlin is 9 times the size of Paris.
 
 ---- Switzerland [DD]
 switzerland has 7000 lakes.
- 
+
+---- United kingdom [DD]
+ the uk is world 6th economy
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
@@ -33,6 +38,9 @@ Senegal is home to seven UNESCO World Heritage Sites.
 ---- Nigeria [DD]
 Nigeria is one of the largest film producers in the world
 
+---- republic of congo [DD]
+they have the deepest river in the world.
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture.
@@ -42,6 +50,9 @@ It’s good manners to slurp your noodles, to show you enjoy the food.
  
 ------ India [DD]
  India is the world’s oldest, largest and continuous civilization – the Indus Valley civilization
+ 
+ ------ pakistan [DD]
+ they have highest number of atm i9n world.
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -53,3 +64,6 @@ There is no Mcdonalds in Iceland.
 
 ------ Australia [DD]
 australia has most of the weired species of animals like big spiders.
+
+------ newzealand [DD]
+they have more sheep than peoples.
