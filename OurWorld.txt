@@ -5,13 +5,20 @@ Compiled by Peter Lowe [PL] Noel Byrne [NB] Dhruv Dagar [DD] Pavel Dobias [PD]
 ---- United States of America [pl]
 The world's 4th Longest River System is in the USA.
 
+---- Peru [PD]
+The Amazon River starts its journey in Peru.
+
 ---- Brazil [NB]
 The Brazilian football team have won the world cup a record 5 times.
 
 ---- Mexico [DD]
 the most of illegal imigrants enter usa via mexico.
 
----- canada [DD]#
+
+they have maple syrup
+
+---- Canada [NB]
+Canada has two official languages – English and French
 they have maple syrup
 
 
@@ -19,18 +26,29 @@ they have maple syrup
 ---- France [pl]
 The French consume around 25,000 tons of snails each year.
 
+---- Czech Republic [PD]
+Biggest consumption of beer per capita.
+
 ---- Germany [NB]
 The city of Berlin is 9 times the size of Paris.
 
 ---- Switzerland [DD]
 switzerland has 7000 lakes.
 
+
 ---- United kingdom [DD]
  the uk is world 6th economy
+
+---- Ireland [NB]
+Ireland is the most successful country in the Eurovision Song Contest.
+ 
 
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
+
+----- Niger [PD]
+Niger is home to the largest protected area in Africa.
 
 ---- Senegal [NB]
 Senegal is home to seven UNESCO World Heritage Sites.
@@ -38,8 +56,13 @@ Senegal is home to seven UNESCO World Heritage Sites.
 ---- Nigeria [DD]
 Nigeria is one of the largest film producers in the world
 
+
 ---- republic of congo [DD]
 they have the deepest river in the world.
+
+=======
+---- Niger [NB]
+Niger has its own dinosaur. ...
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
@@ -51,8 +74,18 @@ It’s good manners to slurp your noodles, to show you enjoy the food.
 ------ India [DD]
  India is the world’s oldest, largest and continuous civilization – the Indus Valley civilization
  
+
  ------ pakistan [DD]
  they have highest number of atm i9n world.
+=======
+
+---- South Korea [NB]
+ Waste management is a significant concern in South Korea, with strict regulations in place. 
+
+------ Vietnam [PD]
+Vietnam has the world's largest cave.
+
+
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -65,5 +98,14 @@ There is no Mcdonalds in Iceland.
 ------ Australia [DD]
 australia has most of the weired species of animals like big spiders.
 
------- newzealand [DD]
-they have more sheep than peoples.
+
+
+----- New Zealand [NB] [DD]
+There are way more sheep than people.
+they have a town with the longest name
+
+
+------ Antarctica [PD]
+no one owns Antarctica
+
+
